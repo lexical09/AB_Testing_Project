@@ -1,4 +1,5 @@
 # AB_Testing_Project
+This project provides a fully defined design, analyze the results, and propose a high-level follow-on experiment from an actual experiment that was run by Udacity.
 
 ## Important files:
 * `AB_Testing.md`: is the project layout 
